@@ -102,7 +102,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Zian Surani**  
+**Zian Rajeshkumar Surani**  
 **Founder | Developer | AI & Blockchain Enthusiast**
 
 **Dishu Mahajan**  
