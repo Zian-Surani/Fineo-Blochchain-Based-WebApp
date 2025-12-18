@@ -103,10 +103,10 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 
 **Zian Rajeshkumar Surani**  
-Founder | Developer | AI & Blockchain Enthusiast
+**Founder | Developer | AI & Blockchain Enthusiast**
 
 **Dishu Mahajan**  
-Backend Developer | AIML Enthusiast
+**Backend Developer | AIML Enthusiast**
 ---
 
 ## 🤝 Contributions
