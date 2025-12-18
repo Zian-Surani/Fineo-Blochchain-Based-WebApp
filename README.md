@@ -104,9 +104,11 @@ This project is licensed under the **MIT License**.
 
 **Zian Rajeshkumar Surani**  
 **Founder | Developer | AI & Blockchain Enthusiast**
----
+
+
 **Dishu Mahajan**  
 **Backend Developer | AIML Enthusiast**
+---
 
 ## 🤝 Contributions
 
